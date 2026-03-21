@@ -1,0 +1,34 @@
+{
+    "root": {
+        "data": {
+            "id": "dgvt0i02qso0",
+            "created": 1772810895021,
+            "text": "python"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "dgvt0z8c8ds0",
+                    "created": 1772810932526,
+                    "text": "流程控制语句"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "dgvt113msg80",
+                    "created": 1772810936595,
+                    "text": "分支主题",
+                    "layout_mind_offset": {
+                        "x": 436.24998699873714,
+                        "y": 61.24999817460787
+                    }
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
